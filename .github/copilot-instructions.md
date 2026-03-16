@@ -1,0 +1,4 @@
+- Dette er et Python-prosjekt for analyse av fotballstatistikk.
+- Fokuser på dataanalyse med Pandas, visualisering med Matplotlib, og maskinlæring med scikit-learn.
+- Integrer med Excel for rapportering.
+- Bruk Jupyter notebooks for interaktiv utforskning.
